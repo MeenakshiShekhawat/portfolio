@@ -1,75 +1,17 @@
-# Nuxt Minimal Starter
+# Meenakshi Shekhawat — Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+My personal developer portfolio, built with Nuxt.js to showcase my projects and journey as a web developer.
 
-## Setup
+## Tech Stack
+- Nuxt.js
+- Vue.js
 
-Make sure to install dependencies:
+## Pages
+- Home
+- About
+- Projects
+- Contact
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Featured Projects
+- [Job Board](https://github.com/MeenakshiShekhawat/job-board) — Node.js, Express, EJS, MySQL
+- [Expense Tracker](https://github.com/MeenakshiShekhawat/expense-tracker) — Node.js, Express, EJS, MySQL
