@@ -26,4 +26,14 @@
   max-width: 600px;
   margin: 0 auto;
 }
+
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 32px;
+  }
+
+  .hero p {
+    font-size: 16px;
+  }
+}
 </style>
